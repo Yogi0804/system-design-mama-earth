@@ -105,18 +105,6 @@ The system is divided into multiple components to ensure modularity, scalability
 ---
 
 ## **Diagram**
-Include a diagram of the architecture. ![Mamaearth HLD Diagram](./architecture-diagram.png)
-(*Replace with the actual link to your architecture diagram file.*)
+![Mamaearth HLD Diagram](./architecture-diagram.png)
 
 ---
-
-## **Contributors**
-- **System Architect**: [Your Name]  
-- **Frontend Developer**: [Contributor Name]  
-- **Backend Developer**: [Contributor Name]  
-- **DevOps Engineer**: [Contributor Name]  
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
