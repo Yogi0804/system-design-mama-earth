@@ -1,5 +1,3 @@
-# system-design-mama-earth
-
 # Mamaearth High-Level Design (HLD)
 
 This document outlines the high-level design architecture for the Mamaearth e-commerce platform, which is focused on selling personal care products. The architecture is designed to be scalable, secure, and user-friendly.
@@ -107,7 +105,7 @@ The system is divided into multiple components to ensure modularity, scalability
 ---
 
 ## **Diagram**
-Include a diagram of the architecture. [Refer to HLD Diagram](./architecture-diagram.png)  
+Include a diagram of the architecture. ![Mamaearth HLD Diagram](./architecture-diagram.png)
 (*Replace with the actual link to your architecture diagram file.*)
 
 ---
